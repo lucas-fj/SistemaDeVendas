@@ -1,9 +1,9 @@
-#Sistema de vendas em Java
+# Sistema de vendas em Java
 Sistema simples de gerenciamento de vendas e estoque desenvolvido em Java, executado via console.
 
 O projeto simula o funcionamento de uma pequena loja, permitindo registrar vendas, controlar estoque, visualizar relatórios e identificar a maior compra realizada.
 
-#Funcionalidades
+# Funcionalidades
 - Registro de vendas com múltiplos produtos
 - Controle de estoque
 - Reposição de produtos
@@ -11,7 +11,7 @@ O projeto simula o funcionamento de uma pequena loja, permitindo registrar venda
 - Identificação da maior venda realizada
 - Listagem de produtos disponíveis
 
-#Produtos disponíveis
+# Produtos disponíveis
 - Calça
 - Camisa
 - Bermuda
@@ -23,7 +23,7 @@ O projeto simula o funcionamento de uma pequena loja, permitindo registrar venda
 - Bota
 Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
 
-#Regras de Negócio
+# Regras de Negócio
 - Não é possível vender mais do que o estoque disponível
 - O usuário deve confirmar a compra antes de finalizar
 - O estoque é atualizado automaticamente após cada venda
@@ -32,7 +32,7 @@ Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
   - Valor total de cada compra
   - Cliente que fez a maior compra
 
-#Funcionalidades do Menu
+# Funcionalidades do Menu
 1 - Registrar Venda 
 2 - Repor Estoque 
 3 - Mostrar Estoque 
@@ -41,12 +41,12 @@ Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
 6 - Integrantes (Integrantes que participaram do desenvolvimento do trabalho) 
 7 - Sair
 
-#Controle de Estoque
+# Controle de Estoque
 - O estoque inicial já vem definido no sistema
 - Pode ser atualizado manualmente pela opção Repor Estoque
 - O sistema impede vendas com quantidade indisponível
 
-#Como executar 
+# Como executar 
 1. Clone o repositório:
     git clone https://github.com/lucas-fj/trabalhoGrauA
 2. Compile o arquivo:
@@ -54,6 +54,6 @@ Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
 3. Execute o programa:
     java trabalhoGrauA
 
-#Objetivo do Projeto
+# Objetivo do Projeto
 Esse projeto foi desenvolvido como um trabalho acadêmico com o objetivo de de praticar lógica de programação, manipulação de variáveis,
 estruturas de decisão, estruturas de repetição e demais conceitos de programação.
