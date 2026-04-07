@@ -33,13 +33,13 @@ Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
   - Cliente que fez a maior compra
 
 # Funcionalidades do Menu
-1- Registrar Venda 
-2- Repor Estoque 
-3- Mostrar Estoque 
-4- Histórico de Vendas 
-5- Maior Venda 
-6- Integrantes (Integrantes que participaram do desenvolvimento do trabalho) 
-7- Sair
+-1 Registrar Venda 
+-2 Repor Estoque 
+-3 Mostrar Estoque 
+-4 Histórico de Vendas 
+-5 Maior Venda 
+-6 Integrantes (Integrantes que participaram do desenvolvimento do trabalho) 
+-7 Sair
 
 # Controle de Estoque
 - O estoque inicial já vem definido no sistema
