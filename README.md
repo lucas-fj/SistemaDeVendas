@@ -21,7 +21,7 @@ O projeto simula o funcionamento de uma pequena loja, permitindo registrar venda
 - Meia
 - Tênis
 - Bota
-Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
+- Cada produto possui: Quantidade em estoque, preço fixo e controle de vendas
 
 # Regras de Negócio
 - Não é possível vender mais do que o estoque disponível
